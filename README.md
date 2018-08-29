@@ -10,7 +10,7 @@ js 倒计时（可自定义样式）
 	  // do some things
 	  // obj.html('已结束'); 或 location.reload();
 	});
-	 *
+	
 	示例（原生选择器）：
 	leftTimer.run(document.querySelectorAll('.countdown'));
 	leftTimer.run(document.querySelectorAll('.countdown'), 'D天H时M分S秒');
